@@ -1,0 +1,14 @@
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\bin\Debug\netcoreapp3.1\Casino dice roller.exe
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\bin\Debug\netcoreapp3.1\Casino dice roller.deps.json
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\bin\Debug\netcoreapp3.1\Casino dice roller.runtimeconfig.json
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\bin\Debug\netcoreapp3.1\Casino dice roller.runtimeconfig.dev.json
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\bin\Debug\netcoreapp3.1\Casino dice roller.dll
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\bin\Debug\netcoreapp3.1\Casino dice roller.pdb
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.csproj.AssemblyReference.cache
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.AssemblyInfoInputs.cache
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.AssemblyInfo.cs
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.csproj.CoreCompileInputs.cache
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.dll
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.pdb
+C:\Users\killa\source\repos\Casino dice roller\Casino dice roller\obj\Debug\netcoreapp3.1\Casino dice roller.genruntimeconfig.cache
